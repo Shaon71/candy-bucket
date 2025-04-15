@@ -1,1 +1,1 @@
-# candy-buckett
+# candy-bucket
